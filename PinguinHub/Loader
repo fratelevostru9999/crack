@@ -1,0 +1,8 @@
+local pid = game.PlaceId
+if pid == 7239319209 then --ohiovision
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/fratelevostru9999/crack/refs/heads/main/PinguinHub/OhioV1sion",true))()
+elseif pid == 5938036553 then --frontlines
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/fratelevostru9999/crack/refs/heads/main/PinguinHub/Frontlines",true))()
+elseif pid == 3 then --rivals
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/fratelevostru9999/crack/refs/heads/main/PinguinHub/Rivals",true))()
+end
